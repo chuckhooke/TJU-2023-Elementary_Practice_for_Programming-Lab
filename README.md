@@ -25,12 +25,12 @@
 
 ```
 ├── Code                  -- Coding
-|   └──lab number         -- Total 20 labs
+|   └──lab number         -- Total 12 labs
 │   	├── labname.java
 │  	└── test.java
 |
 └── README.md
 
-33 directories, 145 files
+89 directories, 137 files
 ```
 
